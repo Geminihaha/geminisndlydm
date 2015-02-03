@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Soundllydemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="soundlly_demo">Soundlly Demo</string>
+    <string name="start_listen">State : start listen</string>
+    <string name="stop_listen">State : stop listen</string>
+    <string name="title_commant">Comment : </string>
+    <string name="title_code_num">Code : </string>
+
+</resources>
